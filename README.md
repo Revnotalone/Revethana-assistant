@@ -5,7 +5,7 @@
 
 ---
 
-![Preview](images/vvsv19.png)
+![Preview](vvsv19.png)
 
 ## ✨ Fitur
 
