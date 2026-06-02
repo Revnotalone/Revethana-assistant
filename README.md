@@ -5,6 +5,8 @@
 
 ---
 
+![Preview](images/vvsv19.png)
+
 ## ✨ Fitur
 
 | Kategori | Kemampuan |
