@@ -206,9 +206,9 @@ text = self._recognize(audio, language="en-US")  # Ganti ke English
 
 ---
 
-## ⚡ Optimasi Ryzen 5 3500U
+## ⚡ Optimasi My Ryzen 5
 
-Project ini sudah dioptimalkan:
+sudah dioptimalkan:
 - SpeechRecognition (ringan) vs Whisper (berat)
 - `max_output_tokens=512` untuk respons cepat dari Gemini
 - Async edge-tts untuk non-blocking TTS generation
@@ -241,4 +241,4 @@ Project ini sudah dioptimalkan:
 
 ---
 
-*Revethana Assistant — Built with ❤️ using Python & Gemini*
+*Revethana Assistant — Built with IQ+KETENANGAN ❤️ using Python & Gemini*
